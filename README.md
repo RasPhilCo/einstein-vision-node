@@ -167,5 +167,4 @@ export EINSTEIN_VISION_PRIVATE_KEY=`cat path/to/private.key`
 heroku local
 ```
 
-If you a private key is not provided, an access token may be explicitly set as `EINSTEIN_VISION_TOKEN`.
-
+If a private key is not provided, an access token may be explicitly set as `EINSTEIN_VISION_TOKEN`.
